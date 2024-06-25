@@ -1,0 +1,17 @@
+
+ul {
+   list-style-type:circle;
+  }
+  
+  li {
+    align-items: center;
+    margin: 10px 0;
+  }
+  
+  li span {
+    cursor: pointer;
+  }
+  
+  button {
+    margin-left: 10px;
+  }

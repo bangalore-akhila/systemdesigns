@@ -1,6 +1,7 @@
 import React, { useState, useCallback } from 'react';
 import AddList from './addList';
 import ListAll from './listAll';
+import "./todoList.css";
 
 const ToDoList = () => {
     const [list, setList] = useState('');
