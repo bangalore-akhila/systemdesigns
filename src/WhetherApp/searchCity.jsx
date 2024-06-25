@@ -1,4 +1,4 @@
-import React, {useCallback} from 'react'
+import React from 'react'
 
 const SearchCity = ({SearchWhether, city, setCity}) => {
   const setCityValue = (e) => {
